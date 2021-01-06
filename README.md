@@ -1,2 +1,2 @@
 # Portfolio
-Website to display projects, resume, and information. 
+Website to display projects, resume, and information about myself. 
